@@ -2,6 +2,16 @@
 
 A beautiful, interactive visualization of three major algorithm categories: **Sorting**, **Pathfinding**, and **Graph Traversal**. Built with React and Canvas.
 
+## 🎯 Live Demo
+
+**👉 [Try it online here!](https://algorithm-viz.vercel.app)** ← Click to test the visualizer
+
+![Algorithm Visualizer](https://img.shields.io/badge/React-19.2.0-blue?style=flat-square)
+![Vite](https://img.shields.io/badge/Vite-7.2.2-purple?style=flat-square)
+![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
+
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -195,13 +205,14 @@ src/
 
 ## 🎨 Features
 
-✅ Real-time algorithm visualization
-✅ Step-by-step animation control
-✅ Adjustable speed (1-100)
-✅ Statistics tracking (comparisons, swaps, visited cells)
-✅ Multiple algorithms per category
-✅ Responsive canvas rendering
-✅ Dark mode UI (professional look)
+✅ **Real-time algorithm visualization** - Watch algorithms in action with smooth animations
+✅ **Step-by-step animation control** - Play, pause, and resume at any time
+✅ **Adjustable speed** - Control animation speed from 1-100
+✅ **Statistics tracking** - See comparisons, swaps, and explored cells in real-time
+✅ **9 different algorithms** - 3 sorting, 3 pathfinding, 3 graph algorithms
+✅ **Clean minimalistic UI** - Professional, distraction-free design
+✅ **Educational comments** - Well-documented code explaining each algorithm
+✅ **Responsive design** - Works on different screen sizes
 
 ---
 
